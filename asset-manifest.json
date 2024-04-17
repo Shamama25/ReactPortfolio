@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Shamama25/ReactPortfolio/static/css/main.11a8959e.css",
-    "main.js": "/Shamama25/ReactPortfolio/static/js/main.cd5b49eb.js",
-    "index.html": "/Shamama25/ReactPortfolio/index.html",
-    "main.11a8959e.css.map": "/Shamama25/ReactPortfolio/static/css/main.11a8959e.css.map",
-    "main.cd5b49eb.js.map": "/Shamama25/ReactPortfolio/static/js/main.cd5b49eb.js.map"
+    "main.css": "/ReactPortfolio/static/css/main.11a8959e.css",
+    "main.js": "/ReactPortfolio/static/js/main.cd5b49eb.js",
+    "index.html": "/ReactPortfolio/index.html",
+    "main.11a8959e.css.map": "/ReactPortfolio/static/css/main.11a8959e.css.map",
+    "main.cd5b49eb.js.map": "/ReactPortfolio/static/js/main.cd5b49eb.js.map"
   },
   "entrypoints": [
     "static/css/main.11a8959e.css",
